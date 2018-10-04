@@ -5,3 +5,8 @@
 *.png
 *.bmp
 *.bmp
+*.vcxproj
+*.vcxproj.filters
+*/.vs
+Sample/Debug
+Sample/Sample/Debug
