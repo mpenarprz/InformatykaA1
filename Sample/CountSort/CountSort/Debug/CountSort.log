@@ -1,0 +1,3 @@
+﻿  CountSort.cpp
+c:\users\prz\documents\politechnika rzeszowska studenci\informatyka\informatykaa1\sample\countsort\countsort\countsort.cpp(56): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CountSort.vcxproj -> C:\Users\PRz\Documents\Politechnika Rzeszowska Studenci\Informatyka\InformatykaA1\Sample\CountSort\Debug\CountSort.exe

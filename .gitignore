@@ -8,6 +8,7 @@
 *.vcxproj
 *.vcxproj.filters
 */.vs
+**/.vs
 Sample/Debug
 Sample/Sample/Debug
 Oceny.xlsx
