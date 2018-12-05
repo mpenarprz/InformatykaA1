@@ -5,6 +5,9 @@ int Silnia(int n){
     return n == 0 ? 0 : n == 1 ? 1 : n == 2 ? 2 : Silnia(n - 1) * n;
 }
 
+/*
+Przespałem wartosć zwracaną... int tu nie pyknie
+*/
 int sinTaylor (int x, int n){
     if (n > 0){
         return sinTaylor(x, n - 1) + (pow(-1, n) / Silnia(2 * n + 1) * pow(x, (2*n +1)));
@@ -15,6 +18,8 @@ int sinTaylor (int x, int n){
 }
 
 /*
+NAJWIĘKSZY ZARZUT TO ZŁA WARTOŚĆ ZWRACANA
+Wcześniejsy komentarz
 Największy zarzut to niekonsekwentne stylowanie: 
 * (2*n +1) - brak spacji tu po + 1
 * funkcje raz za małych liter, raz z dużych
