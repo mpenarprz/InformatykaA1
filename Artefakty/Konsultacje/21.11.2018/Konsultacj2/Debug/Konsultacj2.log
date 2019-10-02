@@ -1,4 +1,0 @@
-﻿  Konsultacj2.cpp
-c:\users\prz\documents\politechnika rzeszowska studenci\informatyka\informatykaa1\artefakty\konsultacje\21.11.2018\konsultacj2\konsultacj2.cpp(36): warning C4018: '>': signed/unsigned mismatch
-c:\users\prz\documents\politechnika rzeszowska studenci\informatyka\informatykaa1\artefakty\konsultacje\21.11.2018\konsultacj2\konsultacj2.cpp(43): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Konsultacj2.vcxproj -> C:\Users\PRz\Documents\Politechnika Rzeszowska Studenci\Informatyka\InformatykaA1\Artefakty\Konsultacje\21.11.2018\Konsultacj2\Debug\Konsultacj2.exe
